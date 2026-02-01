@@ -1,4 +1,4 @@
-# Hi there, I'm Amr 👋
+# Welcome, I'm Amr ([Ah-mer)] عمرو👋
 
 I am an **Anti-Financial Crime (AFC) specialist** with a strong focus on **fraud detection and prevention**. I hold both **CFE** and **CAMS** certifications and bring hands-on expertise across **anti-money laundering (AML)**, **anti-corruption**, **KYC**, and **financial crime risk management**.
 
