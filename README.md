@@ -12,6 +12,8 @@ My academic background in **Accounting** complements my professional experience,
   <img src="https://www.acams.org/themes/custom/acams/dist/assets/logo.svg" alt="ACAMS" height="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.acfe.com/-/media/images/acfe/home-page/170x65-acfe-logo.jpg?la=en&h=65&w=170&hash=694DB70B78D3AE7DE9EA2B5AE1DDE32C" alt="ACFE" height="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.inventateq.com/top-stories/wp-content/uploads/2024/07/images.png" alt="IBMDSC" height="80"/>
 </p>
 
 ---
